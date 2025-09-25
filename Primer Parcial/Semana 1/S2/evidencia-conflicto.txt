@@ -1,0 +1,13 @@
+*   f3dc0bd resolve: conflicto resuelto entre main y docs
+|\  
+| * 230a06d edit: modifiqué título de objetivos en docs
+* | 74f4a7d edit: modifiqué título de objetivos en main
+|/  
+* 12c1e04 docs: agregué objetivos personales del curso (s1s2)
+* 24a7d48 Tarea sesion 4
+* 0064995 agregué captura de pantalla del historial
+* 7344a8d agregué documentación de proceso
+* e6979da Instrucciones tareas s1, s2, s3
+* 072afe6 carpetas
+* 5922992 integrantes del equipo
+* fb72373 Initial commit
