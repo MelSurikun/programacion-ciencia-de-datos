@@ -7,7 +7,7 @@ Repositorio para la materia de Programación para Ciencia de Datos del grupo 3AM
 - Byron Leonardo Ayala Velasco  
 - Melanie Hernández López
 
-## Objetivos personales del curso - VERSIÓN MAIN
+## Objetivos personales del curso
 - Dominar Git y GitHub para control de versiones profesional
 - Aprender análisis de datos con Python y sus librerías principales
 - Crear un portafolio sólido de proyectos en GitHub
