@@ -1,0 +1,9 @@
+,cantidad,cantidad,cantidad,cantidad,cantidad,venta_total,venta_total,venta_total,venta_total,venta_total
+region,Este,Norte,Oeste,Sur,All,Este,Norte,Oeste,Sur,All
+producto,,,,,,,,,,
+Celular,24,12,35,22,93,9750,5150,8300,4550,27750
+Laptop,25,20,41,27,113,5250,7100,8650,6600,27600
+Monitor,23,28,21,31,103,3150,10000,5750,23300,42200
+Tablet,32,19,7,11,69,7500,3300,1600,4100,16500
+Teclado,16,9,17,44,86,8850,2200,5750,13200,30000
+All,120,88,121,135,464,34500,27750,30050,51750,144050

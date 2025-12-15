@@ -1,0 +1,7 @@
+,cantidad,cantidad,cantidad,cantidad,venta_total,venta_total,venta_total,venta_total,venta_total,venta_total,venta_total,venta_total,venta_total,venta_total,venta_total,venta_total
+,sum,sum,sum,sum,max,max,max,max,mean,mean,mean,mean,sum,sum,sum,sum
+mes,April,February,January,March,April,February,January,March,April,February,January,March,April,February,January,March
+categoria,,,,,,,,,,,,,,,,
+Accesorios,10,63,33,63,1500,2400,3000,7200,733.3333333333334,806.6666666666666,1143.75,1859.090909090909,2200,12100,9150,20450
+Computación,19,38,45,38,4000,3500,4000,3500,2733.3333333333335,1406.25,1572.7272727272727,1256.25,8200,11250,17300,10050
+Electrónica,12,21,61,61,4800,2500,3200,5600,1783.3333333333333,591.6666666666666,1187.5,2516.6666666666665,5350,3550,14250,30200

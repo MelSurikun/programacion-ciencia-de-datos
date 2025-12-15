@@ -1,0 +1,7 @@
+prestamo_id,libro_id,usuario_id,fecha_prestamo,titulo,autor,categoria
+P2023-001,L001,U101,2023-03-15,Cien años de soledad,Gabriel García Márquez,Novela
+P2023-002,L002,U102,2023-06-20,El principito,Antoine de Saint-Exupéry,Fábula
+P2023-003,L003,U101,2023-11-05,1984,George Orwell,Distopía
+P2024-001,L001,U103,2024-01-10,Cien años de soledad,Gabriel García Márquez,Novela
+P2024-002,L004,U101,2024-02-15,Don Quijote,Miguel de Cervantes,Novela
+P2024-003,L002,U104,2024-03-22,El principito,Antoine de Saint-Exupéry,Fábula
