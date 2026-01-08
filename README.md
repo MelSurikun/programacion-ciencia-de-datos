@@ -14,3 +14,6 @@ Repositorio para la materia de Programación para Ciencia de Datos del grupo 3AM
 - Desarrollar habilidades de colaboración en equipos de desarrollo
 - Aplicar ciencia de datos a problemas reales del mundo empresarial
 - Automatizar procesos de análisis con scripts y notebooks
+
+## REPOSITORIO DEL PROYECTO FINAL: 
+`https://github.com/MelSurikun/ecommerce-delivery-analysis.git`
